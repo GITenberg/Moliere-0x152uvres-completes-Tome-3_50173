@@ -1,0 +1,44 @@
+_repo: Moliere-0x152uvres-completes-Tome-3_50173
+contributor:
+  creator:
+    editor:
+      agent_name: Chasles, Philarète
+      alias: Chasles, Philarete
+      birthdate: 1798
+      deathdate: 1873
+      gutenberg_agent_id: '40214'
+      url: http://www.gutenberg.org/2009/agents/40214
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Poquelin de Molière, Jean Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin, Jean-Baptiste
+    - Moliere
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Théâtre
+gutenberg_issued: '2015-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50173'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 17th century'
+- !lcc 'PQ'
+tableOfContents: "TROISIÈME ÉPOQUE (1664-1666).\r\n-- Tartuffe\r\n-- Don Juan, ou\
+  \ le Festin de Pierre\r\n-- L'amour médecin\r\n-- Le misanthrope."
+title: Molière - Œuvres complètes, Tome 3
+url: http://www.gutenberg.org/ebooks/50173
